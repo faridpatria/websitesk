@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --buttons-small: "Open Sans";
+  --body-body-text-1: Montserrat;
+  --font-clash-display: "Clash Display";
+  --font-poppins: Poppins;
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --buttons-small-size: 14px;
+  --font-size-xl: 20px;
+  --font-size-lg: 18px;
+  --font-size-17xl: 36px;
+  --font-size-21xl: 40px;
+  --font-size-45xl: 64px;
+  --buttons-large-size: 16px;
+  --heading-5-size: 24px;
+  --font-size-13xl: 32px;
+  --font-size-109xl: 128px;
+  --font-size-mini: 15px;
+  --font-size-smi: 13px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --ungu-selasar-kampus: #742ac7;
+  --color-darkorchid-100: #7322bf;
+  --color-gray-100: #7f7f7f;
+  --primary-primary-1: #051f3c;
+  --primary-primary-2: #050606;
+  --color-gray-200: rgba(0, 0, 0, 0.5);
+  --color-darkslategray: #2e2e4f;
+  --color-darkgray: #acacac;
+
+  /* border radiuses */
+  --br-3xs: 10px;
+  --br-29xl: 48px;
+  --br-17xl: 36px;
+  --br-77xl: 96px;
+  --br-sm: 14px;
+}

@@ -1,0 +1,925 @@
+.image-15-icon {
+  position: absolute;
+  top: 566px;
+  left: 141px;
+  width: 1169px;
+  height: 414px;
+  object-fit: cover;
+  display: none;
+}
+.our-videos {
+  position: absolute;
+  top: 0;
+  left: 445px;
+  line-height: 150%;
+  display: inline-block;
+  width: 383px;
+}
+.sddefault-1-icon,
+.sddefault-2-icon,
+.sddefault-icon {
+  position: absolute;
+  top: 194px;
+  left: 749px;
+  border-radius: var(--br-3xs);
+  width: 361px;
+  height: 204px;
+  object-fit: cover;
+}
+.sddefault-2-icon,
+.sddefault-icon {
+  top: 199px;
+  left: 166px;
+  width: 351px;
+  height: 194px;
+}
+.sddefault-icon {
+  top: 168px;
+  left: 398px;
+  width: 461px;
+  height: 255px;
+}
+.double-click-to {
+  position: absolute;
+  top: 96px;
+  left: 502px;
+  font-size: var(--buttons-large-size);
+  line-height: 150%;
+  font-weight: 600;
+  font-family: var(--buttons-small);
+  color: var(--color-black);
+  opacity: 0.45;
+}
+.arrow-icon,
+.video {
+  position: absolute;
+  top: 267px;
+  left: 0;
+  width: 1270px;
+  height: 50px;
+}
+.video {
+  top: 5578px;
+  left: 83px;
+  height: 415px;
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-clash-display);
+}
+.visi-kami-adalah {
+  margin: 0;
+}
+.visi-kami-adalah-container {
+  position: absolute;
+  top: 132px;
+  left: 0;
+  line-height: 150%;
+  font-weight: 500;
+  display: inline-block;
+  width: 725px;
+  height: 197px;
+}
+.b,
+.vision {
+  position: absolute;
+}
+.b {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-109xl);
+  letter-spacing: 0.02em;
+  line-height: 156.5%;
+  display: inline-block;
+  color: var(--color-darkorchid-100);
+  width: 64px;
+  height: 96px;
+}
+.vision {
+  top: 2349px;
+  left: 236px;
+  width: 725px;
+  height: 329px;
+  color: var(--color-black);
+}
+.kami-menggandeng-para-container {
+  position: absolute;
+  top: 262px;
+  left: 0;
+  line-height: 150%;
+  display: inline-block;
+  width: 481px;
+  height: 451px;
+}
+.n-1-icon,
+.n-1-icon1,
+.n-1-icon2 {
+  position: absolute;
+  top: 29px;
+  left: 621px;
+  width: 233px;
+  height: 233px;
+  object-fit: cover;
+}
+.n-1-icon1,
+.n-1-icon2 {
+  left: 874px;
+}
+.n-1-icon2 {
+  top: 289px;
+  left: 621px;
+  width: 486px;
+  height: 298px;
+}
+.selasar-kampus1 {
+  font-weight: 300;
+}
+.span {
+  font-family: var(--font-clash-display);
+}
+.selasar-kampus {
+  color: var(--color-black);
+}
+.why-selasar-kampus-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-45xl);
+  line-height: 111.5%;
+  display: inline-block;
+  width: 548px;
+  color: var(--color-darkorchid-100);
+  font-family: var(--font-clash-display);
+}
+.why {
+  position: absolute;
+  top: 1551px;
+  left: 141px;
+  width: 1107px;
+  height: 713px;
+  color: var(--color-black);
+}
+.didirikan-pada-tahun {
+  position: absolute;
+  top: 48px;
+  left: 307px;
+  line-height: 150%;
+  display: inline-block;
+  width: 588px;
+  height: 189px;
+}
+.div {
+  top: 0;
+  left: 74px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-clash-display);
+}
+.div,
+.div1,
+.start,
+.today {
+  position: absolute;
+  line-height: 150%;
+  font-weight: 600;
+}
+.div1 {
+  top: 255px;
+  left: 74px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-clash-display);
+  color: var(--ungu-selasar-kampus);
+}
+.start,
+.today {
+  top: 12px;
+  left: 13px;
+}
+.today {
+  top: 264px;
+  left: 0;
+  color: var(--ungu-selasar-kampus);
+}
+.founding,
+.founding-child {
+  position: absolute;
+  top: 66px;
+  left: 104.64px;
+  width: 14.73px;
+  height: 172px;
+}
+.founding {
+  top: 1084px;
+  left: 324px;
+  width: 895px;
+  height: 303px;
+  color: var(--color-black);
+}
+.us {
+  color: var(--color-darkslategray);
+}
+.about-us,
+.our-journey-history {
+  position: absolute;
+  top: 0;
+  left: 468px;
+  line-height: 150%;
+}
+.our-journey-history {
+  top: 96px;
+  left: 0;
+  font-size: var(--heading-5-size);
+  font-weight: 500;
+}
+.selasar-kampus-adalah-container {
+  position: absolute;
+  top: 96px;
+  left: 472px;
+  font-size: var(--font-size-xl);
+  line-height: 150%;
+  font-family: var(--body-body-text-1);
+  color: var(--color-black);
+  display: inline-block;
+  width: 668px;
+  height: 111px;
+}
+.opening {
+  position: absolute;
+  top: 255px;
+  left: 141px;
+  width: 1140px;
+  height: 207px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-clash-display);
+}
+.introduction-video,
+.selasar-putih-1 {
+  position: absolute;
+  top: 600px;
+  left: 141px;
+  width: 1161px;
+  height: 345px;
+}
+.selasar-putih-1 {
+  top: 23px;
+  left: 94px;
+  width: 136px;
+  height: 52px;
+  object-fit: cover;
+}
+.home {
+  left: 0;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.about1,
+.home,
+.studybox {
+  position: absolute;
+  top: 0;
+  line-height: 150%;
+  font-weight: 600;
+}
+.about1 {
+  left: 103px;
+  color: var(--color-darkorchid-100);
+  cursor: pointer;
+}
+.studybox {
+  left: 199px;
+  color: var(--color-gray-200);
+}
+.titles {
+  position: absolute;
+  top: 42px;
+  left: 1062px;
+  width: 307px;
+  height: 24px;
+}
+.selasar-kampus-search-bar-bar {
+  position: absolute;
+  top: 37px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 99px;
+  overflow: hidden;
+  font-size: var(--buttons-large-size);
+  color: var(--primary-primary-2);
+  font-family: var(--buttons-small);
+}
+.students-has-been-container {
+  position: absolute;
+  top: 16px;
+  left: 258px;
+  line-height: 150%;
+  font-weight: 600;
+  display: inline-block;
+  width: 238px;
+}
+.students-contributors {
+  color: var(--color-darkorchid-100);
+}
+.sc-mentee-high-container,
+.undergraduate-students-contrib-container {
+  position: absolute;
+  line-height: 150%;
+  font-weight: 600;
+  display: inline-block;
+}
+.undergraduate-students-contrib-container {
+  top: 16px;
+  left: 756px;
+  width: 238px;
+  color: var(--color-black);
+}
+.sc-mentee-high-container {
+  top: 190px;
+  left: 188px;
+  width: 286px;
+}
+.k {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-clash-display);
+}
+.b1,
+.companies-organizations,
+.k {
+  position: absolute;
+  line-height: 150%;
+}
+.b1 {
+  top: 172px;
+  left: 0;
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-clash-display);
+}
+.companies-organizations {
+  top: 190px;
+  left: 708px;
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+  width: 255px;
+}
+.b2 {
+  top: 172px;
+  left: 551px;
+  font-size: var(--font-size-45xl);
+  line-height: 150%;
+  font-family: var(--font-clash-display);
+}
+.b2,
+.b3,
+.impact {
+  position: absolute;
+}
+.b3 {
+  top: 0;
+  left: 549px;
+  font-size: var(--font-size-45xl);
+  line-height: 150%;
+  font-family: var(--font-clash-display);
+}
+.impact {
+  top: 2824px;
+  left: 253px;
+  width: 994px;
+  height: 268px;
+}
+.amazing-team {
+  margin: 0;
+  color: var(--color-darkorchid-100);
+}
+.meet-our-amazing-container {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  line-height: 111.5%;
+  display: inline-block;
+}
+.meet-our-amazing-team {
+  position: absolute;
+  top: 3381px;
+  left: 158px;
+  width: 304px;
+  height: 80px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-clash-display);
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #f6f6f6;
+  width: 1442px;
+  height: 1696px;
+}
+.group-item,
+.pngegg-5-1 {
+  position: absolute;
+  left: 0;
+  width: 245px;
+}
+.group-item {
+  top: 120px;
+  border-radius: 84px;
+  background-color: var(--color-darkorchid-100);
+  height: 245px;
+}
+.pngegg-5-1 {
+  top: 0;
+  height: 365px;
+  object-fit: cover;
+}
+.ceo,
+.farih-muwaffaq,
+.forestry-engineering-itb {
+  position: absolute;
+  top: 160px;
+  left: 272px;
+  line-height: 150%;
+  display: inline-block;
+  width: 320px;
+}
+.ceo,
+.forestry-engineering-itb {
+  top: 120px;
+  left: 281px;
+  color: var(--color-black);
+  width: 90px;
+}
+.forestry-engineering-itb {
+  top: 223px;
+  left: 286px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  color: var(--color-darkorchid-100);
+  width: 245px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 38px;
+  left: 428px;
+  width: 592px;
+  height: 365px;
+  font-size: var(--font-size-17xl);
+}
+.group-inner {
+  position: absolute;
+  top: 67px;
+  left: 28px;
+  background-color: var(--color-darkorchid-100);
+  width: 194px;
+  height: 193px;
+}
+.pngegg-5-11 {
+  position: absolute;
+  top: 0;
+  left: 17px;
+  width: 205px;
+  height: 260px;
+  object-fit: cover;
+}
+.coo,
+.food-technology-unpad-container,
+.satrio-sahasraya {
+  position: absolute;
+  top: 325px;
+  left: 0;
+  line-height: 150%;
+  display: inline-block;
+  width: 246px;
+}
+.coo,
+.food-technology-unpad-container {
+  top: 278px;
+  left: 53px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  width: 137px;
+}
+.food-technology-unpad-container {
+  top: 382px;
+  left: 6px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  color: var(--color-darkorchid-100);
+  width: 245px;
+}
+.rectangle-container,
+.rectangle-div {
+  position: absolute;
+  top: 483px;
+  left: 211px;
+  width: 251px;
+  height: 436px;
+}
+.rectangle-div {
+  top: 50px;
+  left: 28px;
+  background-color: var(--color-darkorchid-100);
+  width: 194px;
+  height: 193px;
+}
+.pngegg-5-12 {
+  position: absolute;
+  top: 0;
+  left: 28px;
+  width: 193px;
+  height: 243px;
+  object-fit: cover;
+}
+.administration-and-business-container,
+.cfo,
+.tasya-yunita {
+  position: absolute;
+  top: 308px;
+  left: 0;
+  line-height: 150%;
+  display: inline-block;
+  width: 246px;
+}
+.administration-and-business-container,
+.cfo {
+  top: 261px;
+  left: 53px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  width: 137px;
+}
+.administration-and-business-container {
+  top: 362px;
+  left: 6px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  color: var(--color-darkorchid-100);
+  width: 245px;
+}
+.group-child1,
+.group-div {
+  position: absolute;
+  top: 500px;
+  left: 472px;
+  width: 251px;
+  height: 443px;
+}
+.group-child1 {
+  top: 109px;
+  left: 28px;
+  background-color: var(--color-darkorchid-100);
+  width: 194px;
+  height: 193px;
+}
+.farid-2-icon,
+.pngegg-5-13 {
+  position: absolute;
+  top: 92px;
+  left: 21px;
+  width: 202px;
+  height: 210px;
+  object-fit: cover;
+}
+.farid-2-icon {
+  top: 0;
+  left: 28px;
+  width: 194px;
+  height: 302px;
+}
+.cto,
+.m-farid-patria,
+.telecommunications-engineering {
+  position: absolute;
+  top: 367px;
+  left: 0;
+  line-height: 150%;
+  display: inline-block;
+  width: 246px;
+}
+.cto,
+.telecommunications-engineering {
+  top: 320px;
+  left: 53px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  width: 137px;
+}
+.telecommunications-engineering {
+  top: 422px;
+  left: 6px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  color: var(--color-darkorchid-100);
+  width: 245px;
+}
+.pngegg-5-14,
+.rectangle-parent1 {
+  position: absolute;
+  top: 441px;
+  left: 733px;
+  width: 251px;
+  height: 503px;
+}
+.pngegg-5-14 {
+  top: 0;
+  left: 28px;
+  width: 194px;
+  height: 260px;
+  object-fit: cover;
+}
+.international-relations-unpar-container {
+  position: absolute;
+  top: 379px;
+  left: 6px;
+  font-size: var(--font-size-lg);
+  line-height: 150%;
+  font-weight: 600;
+  color: var(--color-darkorchid-100);
+  display: inline-block;
+  width: 245px;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 483px;
+  left: 979px;
+  width: 251px;
+  height: 433px;
+}
+.at-selasar-kampus-container {
+  position: absolute;
+  top: 1041px;
+  left: 259px;
+  line-height: 150%;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 910px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 3513px;
+  left: -3px;
+  width: 1442px;
+  height: 1696px;
+  text-align: center;
+  color: var(--primary-primary-1);
+}
+.syahrul-alamsyah-wahid-totiull-icon {
+  position: absolute;
+  top: 4993px;
+  left: 0;
+  width: 1540px;
+  height: 353px;
+  object-fit: cover;
+}
+.footer-selasar-kampus-child {
+  position: absolute;
+  height: 97.04%;
+  width: 94.43%;
+  top: 2.96%;
+  right: 0;
+  bottom: 0;
+  left: 5.57%;
+  background-color: var(--color-black);
+}
+.jl-mayangsari-no3 {
+  position: absolute;
+  width: 89.76%;
+  top: 0;
+  left: 10.24%;
+  line-height: 150%;
+  display: inline-block;
+}
+.div2,
+.selasarkampusgmailcom {
+  position: absolute;
+  top: 49.64%;
+  left: 10.24%;
+  line-height: 150%;
+}
+.selasarkampusgmailcom {
+  top: 83.94%;
+  color: inherit;
+  text-decoration: none;
+}
+.ic-location {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.mappin-icon {
+  position: absolute;
+  height: 66.67%;
+  width: 52.38%;
+  top: 16.67%;
+  right: 22.62%;
+  bottom: 16.67%;
+  left: 25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-location,
+.vector-icon {
+  position: absolute;
+  height: 17.52%;
+  width: 7.23%;
+  top: 6.57%;
+  right: 92.77%;
+  bottom: 75.91%;
+  left: 0;
+}
+.vector-icon {
+  height: 66.67%;
+  width: 66.67%;
+  top: 16.67%;
+  right: 16.67%;
+  bottom: 16.67%;
+  left: 16.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.envelope-icon,
+.icon-phone {
+  position: absolute;
+  height: 17.52%;
+  width: 7.23%;
+  top: 48.18%;
+  right: 92.77%;
+  bottom: 34.31%;
+  left: 0;
+}
+.envelope-icon {
+  height: 51.28%;
+  width: 66.67%;
+  top: 25%;
+  right: 16.67%;
+  bottom: 23.72%;
+  left: 16.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-email {
+  position: absolute;
+  height: 17.52%;
+  width: 7.23%;
+  top: 82.48%;
+  right: 92.77%;
+  bottom: 0;
+  left: 0;
+}
+.jl-mayangsari-no3-kel-pasi-parent {
+  position: absolute;
+  height: 18.46%;
+  width: 21.77%;
+  top: 35.71%;
+  right: 63.8%;
+  bottom: 45.82%;
+  left: 14.43%;
+  text-align: left;
+  font-size: var(--buttons-small-size);
+}
+.ellipse-icon,
+.footer-selasar-kampus-inner,
+.footer-selasar-kampus-item {
+  position: absolute;
+  height: 46.09%;
+  width: 16.85%;
+  top: 53.91%;
+  right: 77.57%;
+  bottom: 0;
+  left: 5.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ellipse-icon,
+.footer-selasar-kampus-inner {
+  height: 46.5%;
+  width: 18.16%;
+  top: 48.25%;
+  right: 0;
+  bottom: 5.26%;
+  left: 81.84%;
+}
+.ellipse-icon {
+  height: 52.7%;
+  width: 25.64%;
+  top: -15.63%;
+  right: 61.31%;
+  bottom: 62.94%;
+  left: 13.05%;
+}
+.studybox1 {
+  position: absolute;
+  top: 68.6%;
+  left: 84.2%;
+  line-height: 150%;
+}
+.selasar-kampus-1 {
+  position: absolute;
+  height: 11.73%;
+  width: 17.57%;
+  top: 15.5%;
+  right: 69.84%;
+  bottom: 72.78%;
+  left: 12.59%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.about2,
+.home1,
+.selasaruntuknegeri {
+  position: absolute;
+  top: 68.6%;
+  left: 72.66%;
+  line-height: 150%;
+}
+.about2,
+.selasaruntuknegeri {
+  left: 78.49%;
+}
+.selasaruntuknegeri {
+  top: 83.15%;
+  left: 15.15%;
+  font-size: var(--buttons-small-size);
+  font-weight: 600;
+  font-family: var(--buttons-small);
+}
+.mditwitter-icon,
+.riinstagram-line-icon,
+.rilinkedin-box-line-icon {
+  position: absolute;
+  height: 4.04%;
+  width: 1.97%;
+  top: 80.86%;
+  right: 18.82%;
+  bottom: 15.09%;
+  left: 79.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.mditwitter-icon,
+.riinstagram-line-icon {
+  height: 4.18%;
+  top: 81.27%;
+  right: 15.8%;
+  bottom: 14.56%;
+  left: 82.23%;
+}
+.mditwitter-icon {
+  height: 4.99%;
+  width: 2.43%;
+  top: 80.46%;
+  right: 12.2%;
+  left: 85.38%;
+}
+.footer-selasar-kampus-child1 {
+  position: absolute;
+  height: 0.13%;
+  width: 75.93%;
+  top: 75.74%;
+  right: 9.25%;
+  bottom: 24.12%;
+  left: 14.82%;
+  background-color: var(--color-white);
+}
+.icbaseline-tiktok-icon {
+  position: absolute;
+  height: 5.39%;
+  width: 2.62%;
+  top: 80.19%;
+  right: 9.25%;
+  bottom: 14.42%;
+  left: 88.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.footer-selasar-kampus {
+  position: absolute;
+  top: 6225px;
+  left: -85px;
+  width: 1525px;
+  height: 742px;
+  text-align: center;
+  color: var(--color-white);
+}
+.about {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 6967px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkorchid-100);
+  font-family: var(--body-body-text-1);
+}
